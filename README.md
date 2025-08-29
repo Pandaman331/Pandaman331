@@ -4,6 +4,10 @@
 ### [SysAdminTools](https://github.com/Pandaman331/SysAdminTools)
 A all in one tool with modular structure. Make your life in linux easier, faster and simply better. 
 Are you a system administrator, casual user, homelaber? This tool is for you!
+
+### [Chato](https://github.com/Pandaman331/Chato)
+Chato is a simple api writen in GoLang. It gives you, fast, easy, configurable and powerfull chat for any purpose.
+A game, site, app? Chato will give you all you need for comunication!
 ### And a few projects that i should add here
 
 ## Technologies i know:
