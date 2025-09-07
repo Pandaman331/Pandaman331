@@ -8,6 +8,9 @@ Are you a system administrator, casual user, homelaber? This tool is for you!
 ### [Chato](https://github.com/Pandaman331/Chato)
 Chato is a simple api writen in GoLang. It gives you, fast, easy, configurable and powerfull chat for any purpose.
 A game, site, app? Chato will give you all you need for comunication!
+
+### [Screeno](https://github.com/Pandaman331/Screeno)
+A simple yet nice screen time managing tool. It lets you see how long you use your linux pc from the terminal!
 ### And a few projects that i should add here
 
 ## Technologies i know:
