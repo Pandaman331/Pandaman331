@@ -9,6 +9,9 @@ Are you a system administrator, casual user, homelaber? This tool is for you!
 Chato is a simple api writen in GoLang. It gives you, fast, easy, configurable and powerfull chat for any purpose.
 A game, site, app? Chato will give you all you need for comunication!
 
+### [Basho](https://github.com/Pandaman331/Basho)
+A pack of nice bash scripts with pretty tui to speed up you work!
+
 ## Technologies i know:
 - JavaScript
 - Python
